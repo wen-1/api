@@ -1,5 +1,5 @@
 {
-	status:200,
-	data: "测试数据",
-	msg: "ok"
+	"code":200,
+	"data": "测试数据",
+	"message": "ok"
 }
