@@ -1,6 +1,6 @@
 {
-  settingAD: {
-    img: "https://reactnative.dev/img/header_logo.svg",
-    url: "https://reactnative.dev/"
+  "settingAD": {
+    "img": "https://reactnative.dev/img/header_logo.svg",
+    "url": "https://reactnative.dev/"
   }
 }
