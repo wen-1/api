@@ -1,10 +1,5 @@
 {
-  "settingAD": [
-    {
-    "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603875818185&di=8ddcbdcb7ab2dfcaae18a78fd271c54d&imgtype=0&src=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201303%2F16%2F173710lvx470i4348z6i6z.jpg",
-    "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603875818185&di=8ddcbdcb7ab2dfcaae18a78fd271c54d&imgtype=0&src=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201303%2F16%2F173710lvx470i4348z6i6z.jpg"
-    }
-  ],
+  "settingAD": [],
   "settingAD_testData": [
     {
     "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603875818185&di=8ddcbdcb7ab2dfcaae18a78fd271c54d&imgtype=0&src=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201303%2F16%2F173710lvx470i4348z6i6z.jpg",
